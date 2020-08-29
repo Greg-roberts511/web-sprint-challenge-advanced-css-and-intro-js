@@ -89,7 +89,7 @@ video {
 }
 
 /* mobile break */
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 500px) {
   /* nav */
   nav a {
     margin-left: 4%;
